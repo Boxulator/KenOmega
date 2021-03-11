@@ -1,6 +1,8 @@
 # KenOmega
 **BIGPP KEN OMEGA SCRIPT**
 
+**SNITCHES SHOULD NO LONGER SEE YOUR YELLOW NAME + UPGRADED MAIN LOOPING FUNCTION + SCRIPT AUTOMATICALLY UPDATES VIA WEBHOST**
+
 INFO:
 
 -All Autofarmers automatically eats jerk chicken and hides avatar and gang.
