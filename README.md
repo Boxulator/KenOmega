@@ -1,14 +1,16 @@
-# KenOmega
+#【Ｋｅｎ　Ｏｍｅｇａ】
 **BIGPP KEN OMEGA SCRIPT**
 
-**SNITCHES SHOULD NO LONGER SEE YOUR YELLOW NAME + UPGRADED MAIN LOOPING FUNCTION + SCRIPT AUTOMATICALLY UPDATES VIA WEBHOST**
+**WARNING: AUTOSPAR MAY NOT BE SAFE TO USE**
 
-INFO:
+**NEW PASSWORD + AUTOBLOCK TOGGLE + REWORKED BLOCKING + REWORKED FPSBOOST (SCRIPT AUTOMATICALLY UPDATES VIA WEBHOST)**
+
+INFO/UPDATES:
 
 -All Autofarmers automatically eats jerk chicken and hides avatar and gang.
 -Auto Perfblock with combat equipped. (Faster styles gets perfblocked better)
--ewu info here
--ewu info here
+-Password added for increased security.
+-People who has yellow names are considered old script users which was leaked years ago.
 -ewu info here
 
 NOTES: 
@@ -28,3 +30,5 @@ E to TptoCursor
 Y to buy jerkchicken/statcheck/bankcard/bandage and withdraw 5k money from bank.
 U to toggle player esp.
 N to fpsboost.
+
+https://www.roblox.com/games/2898237081/Baritsu-Lethwei-Style-Skills-Ken-Omega
