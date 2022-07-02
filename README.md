@@ -4,14 +4,14 @@
 
 **WARNING: AUTOSPAR MAY NOT BE SAFE TO USE**
 
-**NEW PASSWORD + AUTOBLOCK TOGGLE + REWORKED BLOCKING + REWORKED FPSBOOST (SCRIPT AUTOMATICALLY UPDATES VIA WEBHOST)**
+**FIXED FOR NEW UPDATE + NEW PASSWORD (SCRIPT AUTOMATICALLY UPDATES VIA WEBHOST)**
 
 INFO/UPDATES:
 
--All Autofarmers automatically eats jerk chicken and hides avatar and gang.
+-All Autofarmers automatically eats jerk chicken.
 -Auto Perfblock with combat equipped. (Faster styles gets perfblocked better)
 -Password added for increased security.
--People who has yellow names are considered old script users which was leaked years ago.
+-People who has yellow names are considered EXPLOITING users.
 -ewu info here
 
 NOTES: 
